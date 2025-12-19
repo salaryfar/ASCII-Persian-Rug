@@ -1,0 +1,5 @@
+{
+  "name": "The Loom of Shiraz",
+  "description": "An advanced ASCII Persian rug generator that combines procedural pattern generation with Gemini AI to create intricate, textile-inspired digital art.",
+  "requestFramePermissions": []
+}
